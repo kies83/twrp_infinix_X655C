@@ -24,7 +24,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := X655C
-PRODUCT_NAME := twrp_X655C
+PRODUCT_NAME := omni_X655C
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := X655C
 PRODUCT_MANUFACTURER := infinix
