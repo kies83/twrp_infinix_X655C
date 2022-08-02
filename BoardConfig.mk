@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/infinix/Infinix-X655C
+DEVICE_PATH := device/infinix/X655C
 
 # Architecture
 TARGET_ARCH := arm64
