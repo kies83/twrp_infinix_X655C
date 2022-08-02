@@ -16,6 +16,8 @@
 # limitations under the License.
 #
 
+DEVICE_PATH := device/infinix/X655C
+
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
